@@ -11,7 +11,7 @@ Exporting Jupyter notebook in HTML
 6.	Now it is a single html page without code. You can re-distribute it or print it as PDF.
 
 How do you show GIFs in an IPYNB HTML export?
-1.	Run this into the cell HTML('<IMG SRC="thegif.gif">'), where “thegif.gif” is your gif’s file name
+1.	Run this into the cell ```HTML('<IMG SRC="thegif.gif">')```, where “thegif.gif” is your gif’s file name
 2.	Download your Export into HTML, create a new folder, put the HTML and GIF file in together. 
 3.	Create a zip file from the folder and attach it to an email. 
 4.	Send it over in an email to Person Bob. 
